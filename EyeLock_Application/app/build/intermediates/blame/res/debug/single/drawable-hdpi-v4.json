@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon2.png",
+        "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/drawable-hdpi/icon2.png"
+    },
+    {
         "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setaesquerda.png",
         "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/drawable-hdpi/setaesquerda.png"
     },
@@ -8,8 +12,16 @@
         "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lamp.png",
+        "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/drawable-hdpi/lamp.png"
+    },
+    {
         "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setadireita.png",
         "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/drawable-hdpi/setadireita.png"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pppsetadireita.png",
+        "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/drawable-hdpi/pppsetadireita.png"
     },
     {
         "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setabaixo.png",
@@ -22,6 +34,14 @@
     {
         "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setacima.png",
         "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/drawable-hdpi/setacima.png"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pppsetacima.png",
+        "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/drawable-hdpi/pppsetacima.png"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pppsetaesquerda.png",
+        "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/drawable-hdpi/pppsetaesquerda.png"
     },
     {
         "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cameraicon.png",

@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
     <com.camera.simplemjpeg.MjpegView
 		android:id="@+id/mv"
-        android:layout_width="fill_parent"
-        android:layout_height="0dip"
-		android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         />
 
     <Button
@@ -37,7 +36,8 @@
         android:text=""
         android:id="@+id/buttonLEFT"
         android:background="@drawable/setaesquerda"
-        android:layout_above="@+id/buttonDOWN"/>
+        android:layout_above="@+id/buttonDOWN"
+        android:layout_toStartOf="@+id/buttonDOWN" />
 
     <Button
         style="?android:attr/buttonStyleSmall"
@@ -45,8 +45,9 @@
         android:layout_height="wrap_content"
         android:text=""
         android:id="@+id/buttonDOWN"
-        android:background="@drawable/setabaixo"
-        android:layout_alignParentBottom="true"/>
+        android:background="@drawable/lamp"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/buttonRIGHT" />
 
 
     <Button
@@ -66,4 +67,4 @@
         android:layout_alignParentTop="true"
         android:layout_toLeftOf="@+id/buttonRIGHT" />
 
-</LinearLayout>
+</RelativeLayout>

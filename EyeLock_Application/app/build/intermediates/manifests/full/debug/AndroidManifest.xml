@@ -17,10 +17,10 @@
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
 
     <application
-        android:icon="@drawable/ic_launcher"
+        android:allowBackup="true"
+        android:icon="@drawable/icon2"
         android:label="EyeLock"
         android:theme="@android:style/Theme.Holo" >
-        android:allowBackup="true">
         <activity
             android:name="com.camera.simplemjpeg.Cover"
             android:label="EyeLock" >

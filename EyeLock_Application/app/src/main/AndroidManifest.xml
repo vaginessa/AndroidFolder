@@ -5,10 +5,10 @@
     android:versionName="1.0" >
 
     <application
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/icon2"
         android:label="EyeLock"
+        android:allowBackup="true"
         android:theme="@android:style/Theme.Holo">
-        android:allowBackup="true">
         <activity
             android:name=".Cover"
             android:label="EyeLock" >

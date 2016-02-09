@@ -306,7 +306,7 @@ public class MjpegActivity extends Activity implements View.OnTouchListener {
             } else {
                 setTitle(R.string.title_disconnected);
             }
-            mv.setDisplayMode(MjpegView.SIZE_BEST_FIT);
+            mv.setDisplayMode(MjpegView.SIZE_FULLSCREEN);
             mv.showFps(false);
         }
     }

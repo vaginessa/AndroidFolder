@@ -11,7 +11,7 @@
     <RelativeLayout
         android:orientation="horizontal"
         android:layout_width="wrap_content"
-        android:layout_height="174dp"
+        android:layout_height="200dp"
         android:layout_gravity="right"
         android:weightSum="1">
 
@@ -27,7 +27,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Robil"
+            android:text=""
             android:id="@+id/textView2"
             android:textSize="35dp"
             android:textColor="#ffa21618"
@@ -53,9 +53,9 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="475dp"
+        android:layout_height="300dp"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="30dp"
         android:weightSum="1">
 
 
@@ -84,12 +84,6 @@
             android:layout_gravity="center_horizontal"
             android:textStyle="italic" />
 
-        <LinearLayout
-            android:orientation="vertical"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:weightSum="1">
-
             <Button
 
                 android:layout_width="300dp"
@@ -106,7 +100,7 @@
 
             <Button
                 android:layout_width="300dp"
-                android:layout_height="45dp"
+                android:layout_height="50dp"
                 android:text="Stream"
                 android:id="@+id/streambtn"
                 android:layout_marginLeft="0dp"
@@ -117,7 +111,6 @@
                 android:layout_gravity="center_horizontal"
                 android:textSize="13dp" />
 
-        </LinearLayout>
 
         <Button
             style="?android:attr/buttonStyleSmall"

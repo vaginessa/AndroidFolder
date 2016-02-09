@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pi4">
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="New Username"
+        android:id="@+id/signupusernameed"
+        android:layout_gravity="center_horizontal"
+        android:padding="10dp"
+        android:textColor="#ff000000"
+        android:singleLine="true"
+        android:textStyle="italic"
+        android:layout_marginTop="50dp"
+        android:layout_below="@+id/signuptv"
+        android:layout_alignLeft="@+id/signuppassworded" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/signuppassworded"
+        android:padding="10dp"
+        android:hint="Password"
+        android:password="true"
+        android:textColor="#ff000000"
+        android:singleLine="true"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="italic"
+        android:phoneNumber="false"
+        android:layout_below="@+id/signupusernameed"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/serialnumber"
+        android:layout_gravity="center_horizontal"
+        android:padding="10dp"
+        android:hint="Serial Number"
+        android:textColor="#ff000000"
+        android:singleLine="true"
+        android:textStyle="italic"
+        android:layout_below="@+id/signuppassworded"
+        android:layout_alignLeft="@+id/signuppassworded" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:id="@+id/signuptv"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="41dp"
+        android:textSize="30dp"
+        android:textColor="#ffa21618" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/createbtn"
+        android:layout_marginTop="23dp"
+        android:text="Create"
+        android:background="@drawable/custom_button"
+        android:layout_below="@+id/serialnumber"
+        android:layout_centerHorizontal="true"
+        android:textSize="13dp" />
+
+
+</RelativeLayout>

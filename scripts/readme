@@ -1,0 +1,2 @@
+sudo -i
+./update_sd.sh

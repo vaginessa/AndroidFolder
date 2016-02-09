@@ -1,0 +1,446 @@
+[
+    {
+        "outputFile": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 259,
+                        "endLine": 16,
+                        "endColumn": 19,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 41,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 782,
+                        "endColumn": 38,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 52,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 57,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 633,
+                        "endColumn": 54,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 61,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1043,
+                        "endColumn": 58,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 92,
+                    "endOffset": 623
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1157,
+                        "endColumn": 89,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 628,
+                    "endColumn": 55,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1103,
+                        "endColumn": 52,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 88,
+                    "endOffset": 768
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1248,
+                        "endColumn": 85,
+                        "endOffset": 1332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 773,
+                    "endColumn": 46,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 737,
+                        "endColumn": 43,
+                        "endOffset": 779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 46,
+                    "endOffset": 862
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 692,
+                        "endColumn": 43,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 867,
+                    "endColumn": 52,
+                    "endOffset": 915
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 532,
+                        "endColumn": 49,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 920,
+                    "endColumn": 38,
+                    "endOffset": 954
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 822,
+                        "endColumn": 35,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 959,
+                    "endColumn": 42,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 859,
+                        "endColumn": 39,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 75,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 968,
+                        "endColumn": 72,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endColumn": 69,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 900,
+                        "endColumn": 66,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 51,
+                    "endOffset": 1195
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 583,
+                        "endColumn": 48,
+                        "endOffset": 630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1200,
+                    "endColumn": 55,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 158,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 48,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 212,
+                        "endColumn": 45,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 45,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 111,
+                        "endColumn": 42,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 46,
+                    "endOffset": 1393
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1338,
+                        "endColumn": 43,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1398,
+                    "endColumn": 56,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1444,
+                        "endColumn": 59,
+                        "endOffset": 1502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 59,
+                    "endOffset": 1510
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1386,
+                        "endColumn": 56,
+                        "endOffset": 1441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1515,
+                    "endColumn": 70,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 1505,
+                        "endColumn": 67,
+                        "endOffset": 1571
+                    }
+                }
+            }
+        ]
+    }
+]

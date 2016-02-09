@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@drawable/pi4"
+    >
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="174dp"
+        android:layout_gravity="right"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/dd"
+            android:background="@drawable/uminho"
+            android:layout_weight="0.39"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Robil"
+            android:id="@+id/textView2"
+            android:textSize="35dp"
+            android:textColor="#ffa21618"
+            android:layout_alignTop="@+id/signoutbtn"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="25dp" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="79dp"
+            android:layout_height="30dp"
+            android:text="Sign out"
+            android:id="@+id/signoutbtn"
+            android:background="#09ffffff"
+            android:textColor="#ffc3352f"
+            android:layout_below="@+id/dd"
+            android:layout_toLeftOf="@+id/dd"
+            android:textSize="15dp"
+            android:textStyle="italic" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="475dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:weightSum="1">
+
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Username"
+            android:id="@+id/usernameed"
+            android:layout_gravity="center_horizontal"
+            android:padding="10dp"
+            android:textColor="#ff000000"
+            android:singleLine="true"
+            android:textStyle="italic" />
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Password"
+            android:id="@+id/passworded"
+            android:layout_marginTop="15dp"
+            android:padding="10dp"
+            android:hint="Password"
+            android:password="true"
+            android:textColor="#ff000000"
+            android:singleLine="true"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="italic" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <Button
+
+                android:layout_width="300dp"
+                android:layout_height="45dp"
+                android:id="@+id/connectbtn"
+                android:layout_marginRight="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/custom_button"
+                android:text="Connect"
+                android:layout_gravity="center_horizontal"
+                android:textSize="13dp" />
+
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_height="45dp"
+                android:text="Stream"
+                android:id="@+id/streambtn"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="0dp"
+                android:background="@drawable/custom_button"
+                android:layout_weight="0.35"
+                android:layout_gravity="center_horizontal"
+                android:textSize="13dp" />
+
+        </LinearLayout>
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="142dp"
+            android:layout_height="23dp"
+            android:text="Change Password ?"
+            android:id="@+id/changepassbtn"
+            android:layout_gravity="center_horizontal"
+            android:background="#00ffffff"
+            android:textColor="#9f2c2c2c"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:textSize="12dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
+

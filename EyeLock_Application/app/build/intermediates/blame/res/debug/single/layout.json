@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/layout/changepassword.xml",
+        "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/layout/changepassword.xml"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/layout/layout.xml",
+        "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/layout/layout.xml"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/layout/cover.xml",
+        "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/layout/cover.xml"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_Application/app/build/intermediates/res/merged/debug/layout/signup.xml",
+        "source": "/home/welckron/Documents/EyeLock_Application/app/src/main/res/layout/signup.xml"
+    }
+]

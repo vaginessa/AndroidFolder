@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/welckron/Documents/EyeLock_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setacima.png",
+        "source": "/home/welckron/Documents/EyeLock_App/app/src/main/res/drawable-hdpi/setacima.png"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cameraicon.png",
+        "source": "/home/welckron/Documents/EyeLock_App/app/src/main/res/drawable-hdpi/cameraicon.png"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/screenshot.jpg",
+        "source": "/home/welckron/Documents/EyeLock_App/app/src/main/res/drawable-hdpi/screenshot.jpg"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setadireita.png",
+        "source": "/home/welckron/Documents/EyeLock_App/app/src/main/res/drawable-hdpi/setadireita.png"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setaesquerda.png",
+        "source": "/home/welckron/Documents/EyeLock_App/app/src/main/res/drawable-hdpi/setaesquerda.png"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setabaixo.png",
+        "source": "/home/welckron/Documents/EyeLock_App/app/src/main/res/drawable-hdpi/setabaixo.png"
+    },
+    {
+        "merged": "/home/welckron/Documents/EyeLock_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/welckron/Documents/EyeLock_App/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
